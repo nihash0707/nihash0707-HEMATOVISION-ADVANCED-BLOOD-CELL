@@ -27,5 +27,4 @@ HematoVision is a deep learning web app that classifies blood cell images into f
 - Flask Web Framework
 - HTML/CSS (for UI)
 
-## 📁 Project Structure
-Here's a complete and professional README.md you can paste into your GitHub project
+
